@@ -1,0 +1,6 @@
+/target
+.vscode
+.cargo
+wie-web/dist
+wie-web/pkg
+**/node_modules

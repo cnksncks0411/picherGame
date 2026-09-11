@@ -1,0 +1,21 @@
+/** Keyboard code -> emulator key. Mirrors the on-screen keypad layout. */
+export const KEY_MAP: Record<string, string> = {
+  Digit1: "1",
+  Digit2: "2",
+  Digit3: "3",
+  KeyQ: "4",
+  KeyW: "5",
+  KeyE: "6",
+  KeyA: "7",
+  KeyS: "8",
+  KeyD: "9",
+  KeyZ: "*",
+  KeyX: "0",
+  KeyC: "#",
+  Backspace: "CLR",
+  ArrowUp: "UP",
+  ArrowLeft: "LEFT",
+  ArrowRight: "RIGHT",
+  ArrowDown: "DOWN",
+  Space: "OK",
+};
