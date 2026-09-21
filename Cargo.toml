@@ -46,7 +46,7 @@ dyn-clone = { version = "^1.0", default-features = false }
 encoding_rs = { version = "^0.8", default-features = false, features = ["alloc"] }
 futures = { version = "^0.3", default-features = false, features = ["alloc"] }
 jvm = { version = "^0.1.1" }
-jvm-bytecode = { version = "^0.1.1" }
+jvm-bytecode = { version = "^0.2.0" }
 jvm-class-proto = { version = "^0.1.1" }
 jvm-types = { version = "^0.1.1" }
 lazy_static = { version = "^1.5", default-features = false }
